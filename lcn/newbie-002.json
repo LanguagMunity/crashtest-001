@@ -1,0 +1,40 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["crash","en"],
+  "q":"zimron",
+  "a":"maybe"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","crash"],
+  "q":"maybe",
+  "a":"zimron"
+  ,"voca":{"typ":"synth"
+    ,"lng":"crash"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["crash","en"],
+  "q":"Tubertak.",
+  "a":"Excuse me."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","crash"],
+  "q":"Excuse me.",
+  "a":"Tubertak."
+  ,"voca":{"typ":"synth"
+    ,"lng":"crash"
+    ,"gnd":"r"
+  }
+}
+
+]
