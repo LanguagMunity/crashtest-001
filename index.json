@@ -35,8 +35,8 @@
   ,"title":"Newbie Expressions Part 2"
   ,"dscrip":"Never crashed before?"
   ,"prereq":["newbie-001"]
-  ,"resrc":["res/names.json"]
-  ,"txtres":["lcn/newbie-001.json"]
+  ,"resrc":[]
+  ,"txtres":["lcn/newbie-002.json"]
 }
 
 ]}
