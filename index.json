@@ -1,0 +1,33 @@
+{
+"info":{
+	"title":"Crash Test Course #1"
+,	"mdtyp":"main"
+,	"ref":{
+		"langcode":"en"
+	,	"iclang":"en"
+	,	"lngname":"English"
+	}
+,	"targ":{
+		"langcode":"crash"
+	,	"iclang":"crash"
+	,	"lngname":"Crashite"
+	}
+}
+,"alias":{"newbie-x":["newbie-003"]
+}
+,"replace":{
+		"verb--estar--ser---intro":[]
+	,	"verb--estar---indic01":[]
+}
+,"lcnx":[
+
+{
+  "id":"newbie-001"
+  ,"title":"Newbie Expressions Part 1"
+  ,"dscrip":"Never crashed before?"
+  ,"prereq":[]
+  ,"resrc":["res/names.json"]
+  ,"txtres":["lcn/newbie-001.json"]
+}
+
+]}

@@ -1,0 +1,40 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["crash","en"],
+  "q":"blork",
+  "a":"yes"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","crash"],
+  "q":"yes",
+  "a":"blork"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["crash","en"],
+  "q":"quas",
+  "a":"no"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","crash"],
+  "q":"no",
+  "a":"quas"
+  ,"voca":{"typ":"synth"
+    ,"lng":"es"
+    ,"gnd":"r"
+  }
+}
+
+]
