@@ -23,6 +23,24 @@
 ,{
   "typ":"smtx",
   "lang":["crash","en"],
+  "q":"Bara krashit tata?",
+  "a":"How do you say it in Crashite?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","crash"],
+  "q":"How do you say it in Crashite?",
+  "a":"Bara krashit tata?"
+  ,"voca":{"typ":"synth"
+    ,"lng":"crash"
+    ,"gnd":"r"
+  }
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["crash","en"],
   "q":"Tubertak.",
   "a":"Excuse me."
 }
