@@ -14,7 +14,7 @@
   "q":"yes",
   "a":"blork"
   ,"voca":{"typ":"synth"
-    ,"lng":"es"
+    ,"lng":"crash"
     ,"gnd":"r"
   }
 }
@@ -32,7 +32,7 @@
   "q":"no",
   "a":"quas"
   ,"voca":{"typ":"synth"
-    ,"lng":"es"
+    ,"lng":"crash"
     ,"gnd":"r"
   }
 }
